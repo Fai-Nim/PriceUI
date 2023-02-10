@@ -1,4 +1,4 @@
-import { HStack, Icon, Text, StackProps, Box } from "@chakra-ui/react";
+import { HStack, Icon, Text, StackProps, Box, ElementType } from "@chakra-ui/react";
 import React from "react";
 import { MoneyBackGuaranteeIcon, HassleFreeIcon, MonthlySubscriptionIcon } from "../icons/Icons";
 interface FeatureProps extends StackProps {
